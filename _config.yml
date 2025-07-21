@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Webpage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Michele Mugnaine"
 description              : &description "personal description"
