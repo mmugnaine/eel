@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Afiliações"
-permalink: /eel/affiliations/
+permalink: affiliations/
 author_profile: true
 redirect_from:
-  - /eel/resume
+  - resume
 ---
 
 {% include base_path %}
