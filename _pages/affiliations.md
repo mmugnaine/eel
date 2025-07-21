@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Afiliações"
-permalink: affiliations/
+permalink: /affiliations/
 author_profile: true
 redirect_from:
   - resume
