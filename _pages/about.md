@@ -4,8 +4,8 @@ title: "Michele Mugnaine"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /eel/about/
-  - /eel/about.html
+  - /about/
+  - /about.html
 ---
 
 ## Áreas de interesse
