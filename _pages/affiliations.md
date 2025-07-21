@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Affiliations"
+title: "Afiliações"
 permalink: /affiliations/
 author_profile: true
 redirect_from:
@@ -12,16 +12,15 @@ redirect_from:
 ## 105 Group Science
 [<br/><img src='/images/105.png'>](https://www.105groupscience.com/)
 
+O grupo se originou em uma sala no "Bloco L" da Universidade Estadual de Ponta Grossa, no estado do Paraná. O número da sala era, e ainda é, 105. É daí que vem o nome "*grupo 105*".
 
 
-The group originated in a room in "Block L" at State University of Ponta Grossa in the State of Paraná. The room number was and still is 105. It gives the name "*105 group*"
-
-Website: [https://www.105groupscience.com/](https://www.105groupscience.com/)
+Site: [https://www.105groupscience.com/](https://www.105groupscience.com/)
 
 ## Oscillations Control Group
-[<br/><img src='/images/logo_deitado_cor.png'>](http://web.if.usp.br/controle/)
+[<br/><img src='/images/logo_deitado_cor.png' width="300">](http://web.if.usp.br/controle/)
 
-The Oscillations Control Group, associated to the Plasma Physics Laboratory, develops theoretical research on Plasma Physics and Dynamical Systems, with activities in the following themes: instabilities and turbulence in magnetized plasmas, chaos in Hamiltonian and dissipative systems, including electric circuits and mechanical systems, and complex systems such as ecological and neural networks.
+O Grupo de Controle de Oscilações, associado ao Laboratório de Física de Plasmas, desenvolve pesquisas teóricas em Física de Plasmas e Sistemas Dinâmicos, com atividades nos seguintes temas: instabilidades e turbulência em plasmas magnetizados, caos em sistemas hamiltonianos e dissipativos, incluindo circuitos elétricos e sistemas mecânicos, e sistemas complexos, como redes ecológicas e neurais.
 
 
-Website: [http://web.if.usp.br/controle/](http://web.if.usp.br/controle/)
+Site: [http://web.if.usp.br/controle/](http://web.if.usp.br/controle/)
