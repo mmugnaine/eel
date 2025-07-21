@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Michele Mugnaine"
   avatar           : "profile.jpeg"
-  bio              : "Professor of Mathematics at the Lorena School of Engineering, University of São Paulo"
-  location         : "Lorena, SP, Brazil"
+  bio              : "Professora de Matemática da Escola de Engenharia de Lorena, Univerisdade de São Paulo"
+  location         : "Lorena, SP, Brasil"
   googlescholar    : "https://scholar.google.com/citations?user=H4Gbz00AAAAJ&hl=pt-BR"
-  researchgate     :  "https://www.researchgate.net/profile/Michele-Mugnaine"
+  researchgate     : "https://www.researchgate.net/profile/Michele-Mugnaine"
   github           : "mmugnaine"
   orcid            : "https://orcid.org/0000-0002-8169-4723"
   #uri              : "http://web.if.usp.br/controle/node/323"
