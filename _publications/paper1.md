@@ -10,5 +10,5 @@ paperurl: 'http://mmugnaine.github.io/files/paper1.pdf'
 ---
 The turnstile provides us a useful tool to describe the flux in twist Hamiltonian systems. Thus, its determination allows us to find the areas where the trajectories flux through barriers. We show that the mechanism of the turnstile can increase the flux in nontwist Hamiltonian systems. A model which captures the essence of these systems is the standard nontwist map, introduced by del Castillo-Negrete and Morrison. For selected parameters of this map, we show that chaotic trajectories entering in resonances zones can be explained by turnstiles formed by a set of homoclinic points. We argue that for nontwist systems, if the heteroclinic points are sufficiently close, they can connect twin-islands chains. This provides us a scenario where the trajectories can cross the resonance zones and increase the flux. For these cases the escape basin boundaries are nontrivial, which demands the use of an appropriate characterization. We applied the uncertainty exponent and the entropies of the escape basin boundary in order to quantify the degree of unpredictability of the asymptotic trajectories.
 
-[Download paper here](http://mmugnaine.github.io/files/paper1.pdf)
+[Download do artigo:](http://mmugnaine.github.io/files/paper1.pdf)
 
