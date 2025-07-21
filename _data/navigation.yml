@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "CV"
+  - title: "Currículo"
     url: /cv/
 
-  - title: "Publications"
+  - title: "Publicações"
     url: /publications/
 
  # - title: "Talks"
  #   url: /talks/
 
- # - title: "Teaching"
- #   url: /teaching/
+  - title: "Disciplinas"
+    url: /teaching/
     
-  - title: "Affiliations"
+  - title: "Afiliações"
     url: /affiliations/
         
  # - title: "Blog Posts"
