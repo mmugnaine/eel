@@ -4,7 +4,7 @@ title: "Afiliações"
 permalink: /eel/affiliations/
 author_profile: true
 redirect_from:
-  - /resume
+  - /eel/resume
 ---
 
 {% include base_path %}
