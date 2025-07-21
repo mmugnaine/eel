@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Afiliações"
-permalink: /affiliations/
+permalink: /eel/affiliations/
 author_profile: true
 redirect_from:
   - /resume
@@ -10,7 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ## 105 Group Science
-[<br/><img src='/images/105.png'>](https://www.105groupscience.com/)
+
+
+[<br/><img src='/images/105.png' width="500">](https://www.105groupscience.com/)
+
 
 O grupo se originou em uma sala no "Bloco L" da Universidade Estadual de Ponta Grossa, no estado do Paraná. O número da sala era, e ainda é, 105. É daí que vem o nome "*grupo 105*".
 
@@ -18,7 +21,7 @@ O grupo se originou em uma sala no "Bloco L" da Universidade Estadual de Ponta G
 Site: [https://www.105groupscience.com/](https://www.105groupscience.com/)
 
 ## Oscillations Control Group
-[<br/><img src='/images/logo_deitado_cor.png' width="300">](http://web.if.usp.br/controle/)
+[<br/><img src='/images/logo_deitado_cor.png' width="400">](http://web.if.usp.br/controle/) 
 
 O Grupo de Controle de Oscilações, associado ao Laboratório de Física de Plasmas, desenvolve pesquisas teóricas em Física de Plasmas e Sistemas Dinâmicos, com atividades nos seguintes temas: instabilidades e turbulência em plasmas magnetizados, caos em sistemas hamiltonianos e dissipativos, incluindo circuitos elétricos e sistemas mecânicos, e sistemas complexos, como redes ecológicas e neurais.
 
