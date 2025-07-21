@@ -45,13 +45,13 @@ Universidade do Texas em Austin\
   * Investigação teórica e numérica do mecanismo de transporte em mapas simpléticos
   * Supervisor: Prof.  Philip J. Morrison
 
-* **Pesquisadora de Pós-Doutorado**  <span style="float:right;">**Since Nov/2022**</span>\
+* **Pesquisadora de Pós-Doutorado**  <span style="float:right;">**Nov/2022 - Jun/2025**</span>\
 Universidade de São Paulo\
   * Pesquisadora no Instituto de Física da Universidade de São Paulo
   * Investigação teórica e numérica de oscilações em plasmas confinados magneticamente
   * Supervisor: Prof. Iberê Luiz Caldas
 
-* **Pesquisadora de Doutorado**  <span style="float:right;">**2019–2022**</span>\
+* **Pesquisadora de Doutorado**  <span style="float:right;">**Fev/2019–Set/2022**</span>\
 Universidade Federal do Parná\
   * Investigação teórica e numérica de mapas derivados do mapa padrão não twist.
   * Análise de simetria, transporte, multiestabilidade e bifurcações no mapa padrão não twist estendido, mapa padrão não twist dissipativo e mapa do seno-círculo não twist.
