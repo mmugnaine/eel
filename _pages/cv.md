@@ -13,7 +13,7 @@ redirect_from:
 Professora de Matemática\
 Escola de Engenharia de Lorena\
 University of São Paulo - Brasil\
-[mmugnaine@gmail.com](mailto:mmugnaine@gmail.com)\
+[mugnaine@usp.br](mailto:mugnaine@usp.br)\
 **Web of Science ResearcherID**: IXD-3077-2023\
 **ORCiD**: 0000-0002-8169-4723
 
