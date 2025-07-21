@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Homepage - Michele Mugnaine"
+title: "Michele Mugnaine"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /eel/about/
+  - /eel/about.html
 ---
 
 ## Áreas de interesse
