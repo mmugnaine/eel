@@ -8,8 +8,8 @@ date: 2025-07-28
 location: "Lorena, Brasil"
 ---
 
-[Conteúdo e avaliação](http://mmugnaine.github.io/files/Calculo1/Conteudo.pdf)
+[Conteúdo e avaliação](http://mmugnaine.github.io/eel/files/Calculo1/Conteudo.pdf)
 
 
 ## Aulas
-* Aula 1 - [Apresentação](http://mmugnaine.github.io/files/paper1.pdf)
+* Aula 1 - [Apresentação](http://mmugnaine.github.io/eel/files/Calculo1/Aula1.pdf)
