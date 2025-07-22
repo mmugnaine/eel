@@ -59,6 +59,11 @@ Universidade Federal do Parná\
 
 ## Atuação em ensino
 
+* **Professora Doutora**  <span style="float:right;">**Desde 2025**</span>\
+Escola de Engenharia de Lorena, Univerisdade de São Paulo
+  * Cálculo 1
+  * Geometria analítica
+    
 * **Professor auxiliar**  <span style="float:right;">**2023**</span>\
 Universidade de São Paulo
   * Mecânica Clássica para a pós-graduação
