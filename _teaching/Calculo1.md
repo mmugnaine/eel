@@ -1,5 +1,5 @@
 ---
-title: "Cálculo 1"
+title: "Cálculo 1 - 2S/2025"
 collection: teaching
 type: "Curso de graduação"
 permalink: /teaching/Calculo1
@@ -12,4 +12,4 @@ location: "Lorena, Brasil"
 
 
 ## Aulas
-* Aula 1 - [Apresentação](http://mmugnaine.github.io/eel/files/Calculo1/Aula1.pdf)
+* Aula 0 - [Apresentação](http://mmugnaine.github.io/eel/files/Calculo1/Aula0.pdf)
