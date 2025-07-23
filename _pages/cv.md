@@ -12,7 +12,7 @@ redirect_from:
 ## Michele Mugnaine
 Professora de Matemática\
 Escola de Engenharia de Lorena\
-University of São Paulo - Brasil\
+Universidade of São Paulo - Brasil\
 [mugnaine@usp.br](mailto:mugnaine@usp.br)\
 **Web of Science ResearcherID**: IXD-3077-2023\
 **ORCiD**: 0000-0002-8169-4723
