@@ -12,4 +12,11 @@ location: "Lorena, Brasil"
 
 
 ## Aulas
-* [Aula de apresentação](http://mmugnaine.github.io/eel/files/Calculo1/Aula0.pdf)
+* Aula 0
+  - [Apresentação](http://mmugnaine.github.io/eel/files/Calculo1/AulaApresentacao.pdf)
+  - [Revisão](http://mmugnaine.github.io/eel/files/Calculo1/Aula0.pdf)
+  - [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula0.pdf)
+ 
+* Aula 1
+  - [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula1.pdf)
+  - [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula1.pdf)
