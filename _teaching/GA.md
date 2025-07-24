@@ -8,12 +8,12 @@ date: 2025-07-28
 location: "Lorena, Brasil"
 ---
 
-[Conteúdo e avaliação](http://mmugnaine.github.io/eel/files/GA/Conteudo.pdf)
+[Programação](http://mmugnaine.github.io/eel/files/GA/Conteudo.pdf)
 
 
 ## Aulas
 * Aula 0 -  [Apresentação](http://mmugnaine.github.io/eel/files/GA/AulaApresentacao.pdf)
  
-* Aula 1
+* Aula 1 - **Vetores**
   - [Slides](http://mmugnaine.github.io/eel/files/GA/Aula1.pdf)
   - [Notas de aula](http://mmugnaine.github.io/eel/files/GA/notasAula1.pdf)
