@@ -12,6 +12,6 @@ location: "Lorena, Brasil"
 
 
 ## Aulas
-* **Aula 0 - Apresentação da disciplina:** [Apresentação](http://mmugnaine.github.io/eel/files/GA/AulaApresentacao.pdf), [Slides revisão](files/GA/Aula0.pdf), [Notas de aula](files/GA/NotasAula0.pdf)
+* **Aula 0 - Apresentação da disciplina:** [Apresentação](http://mmugnaine.github.io/eel/files/GA/AulaApresentacao.pdf), [Slides revisão](eel/files/GA/Aula0.pdf), [Notas de aula](eel/files/GA/NotasAula0.pdf)
  
 * **Aula 1 - Vetores:** [Slides](http://mmugnaine.github.io/eel/files/GA/Aula1.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/GA/notasAula1.pdf)
