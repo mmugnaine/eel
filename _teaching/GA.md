@@ -14,4 +14,4 @@ location: "Lorena, Brasil"
 ## Aulas
 * **Aula 0 - Apresentação da disciplina:** [Apresentação](http://mmugnaine.github.io/eel/files/GA/AulaApresentacao.pdf), [Slides revisão](http://mmugnaine.github.io/eel/files/GA/Aula0.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/GA/NotasAula0.pdf)
  
-* **Aula 1 - Vetores:** [Slides](http://mmugnaine.github.io/eel/files/GA/Aula1.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/GA/notasAula1.pdf)
+* **Aula 1:** [Vetores](http://mmugnaine.github.io/eel/files/GA/Aula1-pt1.pdf), [Vetores no R2 e R3](http://mmugnaine.github.io/eel/files/GA/Aula1-pt2.pdf), [Dependência linear](http://mmugnaine.github.io/eel/files/GA/Aula1-pt3.pdf),  [Notas de aula](http://mmugnaine.github.io/eel/files/GA/notasAula01.pdf)
