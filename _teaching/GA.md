@@ -11,6 +11,9 @@ location: "Lorena, Brasil"
 [Programação](http://mmugnaine.github.io/eel/files/GA/Conteudo.pdf)
 
 
+* [Notas](http://mmugnaine.github.io/eel/files/GA/NotasGA.pdf)
+
+
 ## Listas de exercício
 * **Lista 1:** [Parte 1](http://mmugnaine.github.io/eel/files/GA/Lista1_GA_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/GA/Gabarito_Lista1_GA_Pt1.pdf)),[Parte 2](http://mmugnaine.github.io/eel/files/GA/Lista1_GA_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/GA/Gabarito_Lista1_GA_Pt2.pdf))
 
