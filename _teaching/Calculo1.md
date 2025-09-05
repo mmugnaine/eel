@@ -20,6 +20,8 @@ location: "Lorena, Brasil"
  
 * **Aula 1 - Números e funções reais:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula01.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula01.pdf)
 
-* **Aula 2 - Limties:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula02.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula02.pdf)
+* **Aula 2 - Limites:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula02.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula02.pdf)
 
 * **Aula 3 - Continuidade de funções reais:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula03.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula03.pdf)
+
+* **Aula 4 - Derivadas de funções reais e regras de derivação**: [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula04.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula04.pdf)
