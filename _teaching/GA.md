@@ -16,7 +16,7 @@ location: "Lorena, Brasil"
 
 ## Listas de exercício
 * **Lista 1:** [Parte 1](http://mmugnaine.github.io/eel/files/GA/Lista1_GA_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/GA/Gabarito_Lista1_GA_Pt1.pdf)),[Parte 2](http://mmugnaine.github.io/eel/files/GA/Lista1_GA_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/GA/Gabarito_Lista1_GA_Pt2.pdf))
-* **Lista 2:** [Parte 1](http://mmugnaine.github.io/eel/files/GA/Lista2_GA_Pt1.pdf)
+* **Lista 2:** [Parte 1](http://mmugnaine.github.io/eel/files/GA/Lista2_GA_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/GA/Gabarito_Lista2_GA_Pt1.pdf))
 
   
 ## Aulas
@@ -27,4 +27,6 @@ location: "Lorena, Brasil"
 * **Aula 2- Produtos vetoriais:** [Slides](http://mmugnaine.github.io/eel/files/GA/Aula02.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/GA/notasAula02.pdf)
 
 * **Aula 3 - A reta:** [Slides](http://mmugnaine.github.io/eel/files/GA/Aula03.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/GA/notasAula03.pdf)
+
+*  **Aula 4 - O plano:** [Slides](http://mmugnaine.github.io/eel/files/GA/Aula04.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/GA/notasAula04.pdf)
 
