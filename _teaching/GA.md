@@ -30,3 +30,5 @@ location: "Lorena, Brasil"
 
 *  **Aula 4 - O plano:** [Slides](http://mmugnaine.github.io/eel/files/GA/Aula04.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/GA/notasAula04.pdf)
 
+*  **Aula 5 - Distâncias:** [Slides](http://mmugnaine.github.io/eel/files/GA/Aula05.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/GA/notasAula05.pdf)
+
