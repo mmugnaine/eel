@@ -15,7 +15,7 @@ location: "Lorena, Brasil"
 ## Listas de exercício
 * **Lista 1:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1/Lista1_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_L1Pt1.pdf)), [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1/Lista1_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista1_Pt2.pdf)), [Parte 3](http://mmugnaine.github.io/eel/files/Calculo1/Lista1_Pt3.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista1_Pt3.pdf))
 
-* **Lista 2:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1/Lista2_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista2_Pt1.pdf))
+* **Lista 2:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1/Lista2_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista2_Pt1.pdf)),  [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1/Lista2_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista2_Pt2.pdf))
   
 ## Aulas
 * **Aula 0 - Apresentação da disciplina:** [Apresentação](http://mmugnaine.github.io/eel/files/Calculo1/AulaApresentacao.pdf), [Slides revisão](http://mmugnaine.github.io/eel/files/Calculo1/Aula0.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula0.pdf)
