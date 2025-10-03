@@ -79,6 +79,12 @@ Universidade Estadual de Ponta Grossa
 
 ## Publicações
 
+25. Mugnaine, M., Viana, R. L., Ozorio de Almeida, A. M., Elskends, Y.,  Caldas, I. L. (2025) [Dependence of isochronous bifurcations on the driving-mode phase shift in two-harmonic standard maps](https://journals.aps.org/pre/abstract/10.1103/6v36-6h3s) *Physical Review E*, 112, 034216.
+
+24. Mugnaine, M., Leal, B. B., Ozorio de Almeida, A. M., Viana, R. L., Caldas, I. L. (2025) [Isochronous islands in the two-harmonic standard map](https://link.springer.com/article/10.1140/epjs/s11734-025-01867-7) *The European Physical Journal Special Topics*.
+
+23. Sales, M. R., Mugnaine, M., de Moraes, A. L. R., Leonel, E. D., Antonopoulos, C. G., Caldas, I. L., Szezech Jr., J. D. (2025) [Transport mechanisms associated with non-integer wavenumbers in a discontinuous nontwist map](https://www.sciencedirect.com/science/article/pii/S0960077925009798) *Chaos, Solitons and Fractals*, 200, 116966.
+    
 22. Leal, B. B., Lazarotto, M. J., Mugnaine, M., Ozorio de Almeida, A. M., Viana, R. L., Caldas, I. L. (2025) [Secondary shearless bifurcations for two isochronous resonant perturbations](https://pubs.aip.org/aip/cha/article-abstract/35/4/043136/3344494/Secondary-shearless-bifurcations-for-two?redirectedFrom=fulltext). *Chaos: An Interdisciplinary Journal of Nonlinear Science, 35, 043136.*
 
 21. Sales, M. R., Mugnaine, M., Leonel, E. D., Caldas, I. L., Szezech Jr., J. D. (2024) [Shrinking shrimp-shaped domains and multistability in the dissipative asymmetric kicked rotor map](https://pubs.aip.org/aip/cha/article-abstract/34/11/113129/3320828/Shrinking-shrimp-shaped-domains-and-multistability?redirectedFrom=fulltext). *Chaos: An Interdisciplinary Journal of Nonlinear Science, 34, 113129*
