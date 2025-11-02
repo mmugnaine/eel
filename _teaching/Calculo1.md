@@ -17,7 +17,7 @@ location: "Lorena, Brasil"
 
 * **Lista 2:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1/Lista2_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista2_Pt1.pdf)),  [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1/Lista2_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista2_Pt2.pdf))
 
-* **Lista3:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1/Lista3_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista3_Pt1.pdf))
+* **Lista3:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1/Lista3_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista3_Pt1.pdf)), [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1/Lista3_Pt2.pdf)
 
   
 ## Aulas
@@ -38,3 +38,6 @@ location: "Lorena, Brasil"
 * **Aula 7 - Funções hiperbólicas, taxas relacionadas, linearização e diferenciais:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula07.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula07.pdf)
 
 * **Aula 8 - Extremo de funções, Teorema do valor médio, funções monotônicas, concavidade e esboço de curvas:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula08.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula08.pdf)
+
+* **Aula 9 - Formas indeterminadas e a regra de L'Hopital, Fórmula de Taylor:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula09.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula09.pdf)
+
