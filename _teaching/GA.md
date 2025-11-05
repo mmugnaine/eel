@@ -17,7 +17,8 @@ location: "Lorena, Brasil"
 ## Listas de exercício
 * **Lista 1:** [Parte 1](http://mmugnaine.github.io/eel/files/GA/Lista1_GA_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/GA/Gabarito_Lista1_GA_Pt1.pdf)), [Parte 2](http://mmugnaine.github.io/eel/files/GA/Lista1_GA_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/GA/Gabarito_Lista1_GA_Pt2.pdf))
 * **Lista 2:** [Parte 1](http://mmugnaine.github.io/eel/files/GA/Lista2_GA_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/GA/Gabarito_Lista2_GA_Pt1.pdf)),  [Parte 2](http://mmugnaine.github.io/eel/files/GA/Lista2_GA_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/GA/Gabarito_Lista2_GA_Pt2.pdf)), [Parte 3](http://mmugnaine.github.io/eel/files/GA/Lista2_GA_Pt3.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/GA/Gabarito_Lista2_GA_Pt3.pdf))
-* **Lista 3:** [Parte 1](http://mmugnaine.github.io/eel/files/GA/Lista3_GA_Pt1.pdf), [Parte 2](http://mmugnaine.github.io/eel/files/GA/Lista3_GA_Pt2.pdf)
+* **Lista 3:** [Parte 1](http://mmugnaine.github.io/eel/files/GA/Lista3_GA_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/GA/Gabarito_Lista3_GA_Pt1.pdf)), [Parte 2](http://mmugnaine.github.io/eel/files/GA/Lista3_GA_Pt2.pdf), [Parte 3](http://mmugnaine.github.io/eel/files/GA/Lista3_GA_Pt3.pdf)
+
 
   
 ## Aulas
@@ -36,4 +37,6 @@ location: "Lorena, Brasil"
 *  **Aula 6 - Coordenadas polares, mudança de coordenadas e equações paramétricas:** [Slides](http://mmugnaine.github.io/eel/files/GA/Aula06.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/GA/notasAula06.pdf)
 
 *  **Aula 7 - Cônicas:** [Slides](http://mmugnaine.github.io/eel/files/GA/Aula07.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/GA/notasAula07.pdf)
+
+*  **Aula 8 - Superfícies quádricas:** [Slides](http://mmugnaine.github.io/eel/files/GA/Aula08.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/GA/notasAula08.pdf)
 
