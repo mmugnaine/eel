@@ -41,3 +41,6 @@ location: "Lorena, Brasil"
 
 * **Aula 9 - Formas indeterminadas e a regra de L'Hopital, Fórmula de Taylor:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula09.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula09.pdf)
 
+* **Aula 10 - Otimização:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula10.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula10.pdf)
+
+
