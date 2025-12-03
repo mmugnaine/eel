@@ -11,6 +11,8 @@ location: "Lorena, Brasil"
 [Programação](http://mmugnaine.github.io/eel/files/Calculo1/Conteudo.pdf)
 
 * [Notas](http://mmugnaine.github.io/eel/files/Calculo1/NotasCalculo1.pdf)
+
+* **Provas:** [Prova 1](http://mmugnaine.github.io/eel/files/Calculo1/P1.pdf), [Prova 2](http://mmugnaine.github.io/eel/files/Calculo1/P2.pdf), [Prova 3](http://mmugnaine.github.io/eel/files/Calculo1/P3.pdf)
   
 ## Listas de exercício
 * **Lista 1:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1/Lista1_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_L1Pt1.pdf)), [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1/Lista1_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista1_Pt2.pdf)), [Parte 3](http://mmugnaine.github.io/eel/files/Calculo1/Lista1_Pt3.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista1_Pt3.pdf))
