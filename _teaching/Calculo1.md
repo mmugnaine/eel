@@ -11,6 +11,7 @@ location: "Lorena, Brasil"
 [Programação](http://mmugnaine.github.io/eel/files/Calculo1/Conteudo.pdf)
 
 * [Notas](http://mmugnaine.github.io/eel/files/Calculo1/NotasCalculo1.pdf)
+* [Notas da recuperação](http://mmugnaine.github.io/eel/files/Calculo1/NotasRecuperacao.pdf)
 
 * **Provas:** [Prova 1](http://mmugnaine.github.io/eel/files/Calculo1/P1.pdf), [Prova 2](http://mmugnaine.github.io/eel/files/Calculo1/P2.pdf), [Prova 3](http://mmugnaine.github.io/eel/files/Calculo1/P3.pdf), [Substitutiva](http://mmugnaine.github.io/eel/files/Calculo1/Substitutiva.pdf)
   
