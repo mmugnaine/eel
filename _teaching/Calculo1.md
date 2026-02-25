@@ -1,5 +1,5 @@
 ---
-title: "<span style="color:red;">Cálculo 1 - 2S/2025</span>"
+title: "Cálculo 1 - 2S/2025"
 collection: teaching
 type: "Curso de graduação"
 permalink: /teaching/Calculo1
