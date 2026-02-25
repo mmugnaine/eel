@@ -43,3 +43,8 @@
 .title-red {
   color: #d62728 !important;
 }
+
+.archive__item:nth-of-type(2) .archive__item-title a,
+.archive__item:nth-of-type(3) .archive__item-title a {
+  color: #d62728 !important;
+}
