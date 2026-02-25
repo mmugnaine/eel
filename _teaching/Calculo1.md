@@ -6,7 +6,7 @@ permalink: /teaching/Calculo1
 venue: "Departamento de Ciências Básicas e Ambientais da Escola da Engenharia de Lorena"
 date: 2025-07-28
 location: "Lorena, Brasil"
-color: "red"
+title_color: "red"
 ---
 
 [Programação](http://mmugnaine.github.io/eel/files/Calculo1/Conteudo.pdf)
