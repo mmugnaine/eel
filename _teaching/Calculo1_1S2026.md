@@ -8,19 +8,19 @@ date: 2026-02-23
 location: "Lorena, Brasil"
 ---
 
-[Programação](http://mmugnaine.github.io/eel/files/Calculo1/Conteudo.pdf)
+| Engenharia de Produção| Engenharia Química Noturno   |
+| --------         | ------ |
+| [Programação](http://mmugnaine.github.io/eel/files/Calculo1/ConteudoEP.pdf)    | [Programação](http://mmugnaine.github.io/eel/files/Calculo1/ConteudoEQN.pdf)   |
 
-* [Notas](http://mmugnaine.github.io/eel/files/Calculo1/NotasCalculo1.pdf)
-* [Notas da recuperação](http://mmugnaine.github.io/eel/files/Calculo1/NotasRecuperacao.pdf)
-
-* **Provas:** [Prova 1](http://mmugnaine.github.io/eel/files/Calculo1/P1.pdf), [Prova 2](http://mmugnaine.github.io/eel/files/Calculo1/P2.pdf), [Prova 3](http://mmugnaine.github.io/eel/files/Calculo1/P3.pdf), [Substitutiva](http://mmugnaine.github.io/eel/files/Calculo1/Substitutiva.pdf)
-  
+ 
 ## Listas de exercício
+
+* **Lista 0:** [Lista](http://mmugnaine.github.io/eel/files/Calculo1/Lista0.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista0.pdf))
 * **Lista 1:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1/Lista1_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_L1Pt1.pdf)), [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1/Lista1_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista1_Pt2.pdf)), [Parte 3](http://mmugnaine.github.io/eel/files/Calculo1/Lista1_Pt3.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista1_Pt3.pdf))
 
 * **Lista 2:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1/Lista2_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista2_Pt1.pdf)),  [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1/Lista2_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista2_Pt2.pdf))
 
-* **Lista3:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1/Lista3_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista3_Pt1.pdf)), [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1/Lista3_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista3_Pt2.pdf)), [Parte 3](http://mmugnaine.github.io/eel/files/Calculo1/Lista3_Pt3.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista3_Pt3.pdf))
+* **Lista 3:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1/Lista3_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista3_Pt1.pdf)), [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1/Lista3_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista3_Pt2.pdf)), [Parte 3](http://mmugnaine.github.io/eel/files/Calculo1/Lista3_Pt3.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista3_Pt3.pdf))
 
   
 ## Aulas
