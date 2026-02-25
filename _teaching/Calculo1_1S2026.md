@@ -7,12 +7,12 @@ venue: "Departamento de Ciências Básicas e Ambientais da Escola da Engenharia 
 date: 2026-02-23
 location: "Lorena, Brasil"
 ---
-<div style="font-size: 2em;">
+
  
 | Engenharia de Produção| Engenharia Química Noturno   |
 | --------         | ------ |
 | [Programação](http://mmugnaine.github.io/eel/files/Calculo1/ConteudoEP.pdf)    | [Programação](http://mmugnaine.github.io/eel/files/Calculo1/ConteudoEQN.pdf)   |
- </div>
+
  
 ## Listas de exercício
 
