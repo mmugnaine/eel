@@ -11,40 +11,18 @@ location: "Lorena, Brasil"
  
 | Engenharia de Produção| Engenharia Química Noturno   |
 | --------         | ------ |
-| [Programação](http://mmugnaine.github.io/eel/files/Calculo1/ConteudoEP.pdf)    | [Programação](http://mmugnaine.github.io/eel/files/Calculo1/ConteudoEQN.pdf)   |
+| [Programação](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/ConteudoEP.pdf)    | [Programação](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/ConteudoEQN.pdf)   |
 
  
 ## Listas de exercício
 
-* **Lista 0:** [Lista](http://mmugnaine.github.io/eel/files/Calculo1/Lista0.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista0.pdf))
-* **Lista 1:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1/Lista1_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_L1Pt1.pdf)), [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1/Lista1_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista1_Pt2.pdf)), [Parte 3](http://mmugnaine.github.io/eel/files/Calculo1/Lista1_Pt3.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista1_Pt3.pdf))
-
-* **Lista 2:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1/Lista2_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista2_Pt1.pdf)),  [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1/Lista2_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista2_Pt2.pdf))
-
-* **Lista 3:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1/Lista3_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista3_Pt1.pdf)), [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1/Lista3_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista3_Pt2.pdf)), [Parte 3](http://mmugnaine.github.io/eel/files/Calculo1/Lista3_Pt3.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1/Gabarito_Lista3_Pt3.pdf))
+* **Lista 0:** [Lista](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista0.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista0.pdf))
 
   
 ## Aulas
-* **Aula 0 - Apresentação da disciplina:** [Apresentação](http://mmugnaine.github.io/eel/files/Calculo1/AulaApresentacao.pdf), [Slides revisão](http://mmugnaine.github.io/eel/files/Calculo1/Aula0.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula0.pdf)
+* **Apresentação da disciplina:** [Apresentação](http://mmugnaine.github.io/eel/files/Calculo1/AulaApresentacao.pdf)
+  
+* **Aula 0 - Revisão:** [Slides revisão](http://mmugnaine.github.io/eel/files/Calculo1/Aula0.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula0.pdf)
+
  
-* **Aula 1 - Números e funções reais:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula01.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula01.pdf)
-
-* **Aula 2 - Limites:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula02.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula02.pdf)
-
-* **Aula 3 - Continuidade de funções reais:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula03.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula03.pdf)
-
-* **Aula 4 - Derivadas de funções reais e regras de derivação**: [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula04.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula04.pdf)
-
-* **Aula 5 - Derivada da função logaritmo, de funções trigonométricas, e regra da cadeia:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula05.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula05.pdf)
-
-* **Aula 6 - Derivação implícita e Derivada da função inversa:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula06.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula06.pdf)
-
-* **Aula 7 - Funções hiperbólicas, taxas relacionadas, linearização e diferenciais:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula07.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula07.pdf)
-
-* **Aula 8 - Extremo de funções, Teorema do valor médio, funções monotônicas, concavidade e esboço de curvas:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula08.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula08.pdf)
-
-* **Aula 9 - Formas indeterminadas e a regra de L'Hopital, Fórmula de Taylor:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula09.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula09.pdf)
-
-* **Aula 10 - Otimização:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula10.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula10.pdf)
-
 
