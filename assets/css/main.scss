@@ -40,11 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.title-red {
-  color: #d62728 !important;
+table {
+  width: 100% !important;
+  font-size: 1.05rem;
 }
 
-.archive__item:nth-of-type(2) .archive__item-title a,
-.archive__item:nth-of-type(3) .archive__item-title a {
-  color: #d62728 !important;
+th, td {
+  padding: 10px 14px;
 }
