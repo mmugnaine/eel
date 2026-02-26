@@ -1,6 +1,9 @@
 ---
 title: "Dynamical characterization of transport barriers in nontwist Hamiltonian systems"
-excerpt: "Descrição a partir das variedades das barreiras de transporte no mapa padrão não twist 1<br/><img src='../images/ImagensDivulgacao/fig1.png'>"
+excerpt: |
+  Descrição a partir das variedades das barreiras de transporte no mapa padrão não twist
+  <br/>
+  <img src="/images/ImagensDivulgacao/fig1.png" width="300">
 collection: portfolio
 ---
 
@@ -10,4 +13,4 @@ Para parâmetros selecionados desse mapa, mostramos que trajetórias caóticas q
 
 Nesses casos, as fronteiras das bacias de escape são não triviais, o que exige o uso de uma caracterização apropriada. Aplicamos o expoente de incerteza e as entropias de bacia a fim de quantificar o grau de imprevisibilidade das trajetórias assintóticas. 
 
-[Download do artigo](../files/paper1.pdf)
+[Download do artigo](https://mmugnaine.github.io/eel/files/paper1.pdf)
