@@ -22,7 +22,7 @@ location: "Lorena, Brasil"
 ## Aulas
 * **Apresentação da disciplina:** [Apresentação](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Apresentacao.pdf)
   
-* **Aula 0 - Revisão:** [Slides revisão](http://mmugnaine.github.io/eel/files/Calculo1/Aula0.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula0.pdf)
+* **Aula 0 - Revisão:** [Slides revisão](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula00.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula00.pdf)
 
  
 
