@@ -3,7 +3,7 @@ title: "Dynamical characterization of transport barriers in nontwist Hamiltonian
 excerpt: |
   Descrição a partir das variedades das barreiras de transporte no mapa padrão não twist
   <br/>
-  <img src="https://mmugnaine.github.io/eel/images/ImagensDivulgacao/fig1.png" width="300">
+  <img src="https://mmugnaine.github.io/eel/images/ImagensDivulgacao/fig1.png" width="300" style="display:block; margin:0 auto;">
 collection: portfolio
 ---
 
