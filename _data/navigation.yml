@@ -11,9 +11,6 @@ main:
 
   - title: "Disciplinas"
     url: /teaching/
-
-   - title: "Pesquisa"
-    url: /research/
     
   - title: "Afiliações"
     url: /affiliations/
