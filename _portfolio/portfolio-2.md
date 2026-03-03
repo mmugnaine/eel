@@ -1,7 +1,7 @@
 ---
 title: "Recurrence-based analysis of barrier breakup in the standard nontwist map"
 excerpt: |
-  Identificação da quebra de barreiras shearless a partir de ferramentas de recorrência
+  Identificação da quebra de barreiras shearless a partir de ferramentas de recorrência.
   <br/>
   <img src="https://mmugnaine.github.io/eel/images/ImagensDivulgacao/fig2.png" width="300" style="display:block; margin:0 auto;">
 collection: portfolio
