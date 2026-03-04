@@ -9,7 +9,7 @@ location: "Lorena, Brasil"
 ---
 
  
-| Engenharia de Produção| Engenharia Química Noturno   |
+| Turma 20261NP: 19h-21h| Turma 20261N7: 21h-23h   |
 | --------         | ------ |
 | [Programação](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/ConteudoEP.pdf)    | [Programação](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/ConteudoEQN.pdf)   |
 
