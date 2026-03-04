@@ -10,11 +10,7 @@ location: "Lorena, Brasil"
 
 [Programação](http://mmugnaine.github.io/eel/files/GA/Conteudo.pdf)
 
-
-* [Notas](http://mmugnaine.github.io/eel/files/GA/NotasGA.pdf)
-* [Notas da recuperação](http://mmugnaine.github.io/eel/files/GA/NotasRecuperacao.pdf)
-  
-* **Provas:** [Prova 1](http://mmugnaine.github.io/eel/files/GA/P1.pdf), [Prova 2](http://mmugnaine.github.io/eel/files/GA/P2.pdf), [Prova 3](http://mmugnaine.github.io/eel/files/GA/P3.pdf)
+<br> <br> <br>
 
 
 ## Listas de exercício
