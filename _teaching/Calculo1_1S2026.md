@@ -17,14 +17,15 @@ location: "Lorena, Brasil"
 ## Listas de exercício
 
 * **Lista 0:** [Lista](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista0.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista0.pdf))
+* **Lista 1:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista1_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista1_Pt1.pdf))
 
   
 ## Aulas
 * **Apresentação da disciplina:** [Apresentação](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Apresentacao.pdf)
   
-* **Aula 0 - Revisão:** [Slides revisão](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula00.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula00.pdf)
+* **Aula 0 - Revisão:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula00.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula00.pdf)
 
-* **Aula - Números e funções reais:** [Slides revisão](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula01.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula01.pdf)
+* **Aula - Números e funções reais:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula01.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula01.pdf)
 
  
 
