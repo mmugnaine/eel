@@ -31,5 +31,7 @@ location: "Lorena, Brasil"
 
 * **Aula - Continuidade de funções reais:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula03.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula03.pdf)
 
+* **Aula - Definição de derivada, regras de derivação, derivadas de ordem superior:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula04.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula04.pdf)
+
  
 
