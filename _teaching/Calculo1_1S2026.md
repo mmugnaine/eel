@@ -12,12 +12,14 @@ location: "Lorena, Brasil"
 | Turma 20261NP: 19h-21h| Turma 20261N7: 21h-23h   |
 | --------         | ------ |
 | [Programação](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/ConteudoEP.pdf)    | [Programação](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/ConteudoEQN.pdf)   |
+| [Notas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/NotasNP_P1.pdf)    | [Notas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/NotasN7_P1.pdf)   |
 
  
 ## Listas de exercício
 
 * **Lista 0:** [Lista](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista0.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista0.pdf))
 * **Lista 1:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista1_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista1_Pt1.pdf)),  [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista1_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista1_Pt2.pdf)), [Parte 3](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista1_Pt3.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista1_Pt3.pdf)), [Lista Extra](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista1_Extra.pdf)
+* **Lista 2:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista2_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista2_Pt1.pdf)), [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista2_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista2_Pt2.pdf))
 
   
 ## Aulas
