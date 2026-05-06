@@ -38,5 +38,7 @@ location: "Lorena, Brasil"
 
 * **Aula - Definição de derivada, regras de derivação, derivadas de ordem superior:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula04.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula04.pdf)
 
+* **Aula - Derivadas da função logaritmo, funções trigonométricas e regra da cadeia:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula05.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula05.pdf)
+
  
 
