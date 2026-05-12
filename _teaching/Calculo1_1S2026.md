@@ -40,5 +40,7 @@ location: "Lorena, Brasil"
 
 * **Aula - Derivadas da função logaritmo, funções trigonométricas e regra da cadeia:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula05.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula05.pdf)
 
+* **Aula - Derivação implícita, derivação logarítmica e derivada da função inversa:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula06.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula06.pdf)
+
  
 
