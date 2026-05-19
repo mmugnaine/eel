@@ -42,5 +42,7 @@ location: "Lorena, Brasil"
 
 * **Aula - Derivação implícita, derivação logarítmica e derivada da função inversa:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula06.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula06.pdf)
 
+* **Aula - Funções hiperbólicas, equações paramétricas, taxas relacionadas, linearização e diferenciais:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula07.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula07.pdf)
+
  
 
