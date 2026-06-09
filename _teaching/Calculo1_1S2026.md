@@ -20,10 +20,11 @@ location: "Lorena, Brasil"
 * **Lista 0:** [Lista](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista0.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista0.pdf))
 * **Lista 1:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista1_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista1_Pt1.pdf)),  [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista1_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista1_Pt2.pdf)), [Parte 3](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista1_Pt3.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista1_Pt3.pdf)), [Lista Extra](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista1_Extra.pdf)
 * **Lista 2:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista2_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista2_Pt1.pdf)), [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista2_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista2_Pt2.pdf))
-* **Lista 3:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista3_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista3_Pt1.pdf))
+* **Lista 3:** [Parte 1](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista3_Pt1.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista3_Pt1.pdf)), [Parte 2](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista3_Pt2.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista3_Pt2.pdf)), [Parte 3](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Lista3_Pt3.pdf) ([Respostas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Gabarito_Lista3_Pt3.pdf))
 
 ## Provas
 * **Prova 1:** [Prova 1 - Turma NP](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Prova1_Turma20261NP.pdf), [Prova 1 - Turma N7](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Prova1_Turma20261N7.pdf)
+* **Prova 2:** [Prova 2 - Turma NP](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Prova2_Turma20261NP.pdf), [Prova 2 - Turma N7](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Prova2_Turma20261N7.pdf)
 
   
 ## Aulas
@@ -46,6 +47,10 @@ location: "Lorena, Brasil"
 * **Aula - Funções hiperbólicas, equações paramétricas, taxas relacionadas, linearização e diferenciais:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula07.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula07.pdf)
 
 * **Aula - Extremo de funções, Teorema do valor médio, funções monotônicas e o teste da primeira derivada, concavidade e esboço de curvas:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula08.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula08.pdf)
+
+* **Aula - Formas indeterminadas e a regra de L’Hopital, Fórmula de Taylor:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula09.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula09.pdf)
+
+* **Aula - Otimização:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Aula10.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/notasAula10.pdf)
 
  
 
