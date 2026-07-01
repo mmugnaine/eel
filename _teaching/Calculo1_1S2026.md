@@ -12,7 +12,7 @@ location: "Lorena, Brasil"
 | Turma 20261NP: 19h-21h| Turma 20261N7: 21h-23h   |
 | --------         | ------ |
 | [Programação](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/ConteudoEP.pdf)    | [Programação](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/ConteudoEQN.pdf)   |
-| [Notas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/NotasNP_P1.pdf)    | [Notas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/NotasN7_P1.pdf)   |
+| [Notas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/NotasNP_P3.pdf)    | [Notas](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/NotasN7_P3.pdf)   |
 
  
 ## Listas de exercício
@@ -25,6 +25,7 @@ location: "Lorena, Brasil"
 ## Provas
 * **Prova 1:** [Prova 1 - Turma NP](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Prova1_Turma20261NP.pdf), [Prova 1 - Turma N7](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Prova1_Turma20261N7.pdf)
 * **Prova 2:** [Prova 2 - Turma NP](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Prova2_Turma20261NP.pdf), [Prova 2 - Turma N7](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Prova2_Turma20261N7.pdf)
+* **Prova 3:** [Prova 3 - Turma NP](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Prova3_Turma20261NP.pdf), [Prova 3 - Turma N7](http://mmugnaine.github.io/eel/files/Calculo1_1S2026/Prova3_Turma20261N7.pdf)
 
   
 ## Aulas
