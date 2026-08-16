@@ -25,6 +25,7 @@ location: "Lorena, Brasil"
 * **Apresentação da disciplina:** [Apresentação - Turma T2](http://mmugnaine.github.io/eel/files/Calculo1/ApresentacaoTurmaT2.pdf), [Apresentação - Turma A1](http://mmugnaine.github.io/eel/files/Calculo1/ApresentacaoTurmaA1.pdf) 
   
 * **Aula - Números e funções reais:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula01.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula01.pdf)
+* **Aula - Limites:** [Slides](http://mmugnaine.github.io/eel/files/Calculo1/Aula02.pdf), [Notas de aula](http://mmugnaine.github.io/eel/files/Calculo1/notasAula02.pdf)
 
 
  
